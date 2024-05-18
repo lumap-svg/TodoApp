@@ -1,0 +1,25 @@
+.inputContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inputContainer input{
+    width: 500px;
+    margin: 10px;
+    height: 50px;
+    padding-left: 15px;
+}
+
+.inputContainer button{
+    height: 40px;
+    width: 40px;
+    border: none;
+    background: grey;
+    border-radius: 50%;
+    margin-right: 12px;
+
+}
+button:hover{
+    background: blue;
+
+}

@@ -1,0 +1,10 @@
+.navbarContainer{
+    height: 4em;
+    width: 100%;
+    background: rgb(14, 209, 223);
+}
+h2{
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 10px;
+}
